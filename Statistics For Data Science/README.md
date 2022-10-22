@@ -8,10 +8,10 @@ Statistics combines some techniques for drawing a reliable conclusion about a la
 ## Types of Statistics Concepts
 There are two types of statistics.
 * ### Descriptive Statistics
-      Descriptive statistics summarizes/describes the population or sample dataset. It covers the topics : types of data, variables, distribution, central tendency, percentile and quartile, correlation, etc.
+Descriptive statistics summarizes/describes the population or sample dataset. It covers the topics : types of data, variables, distribution, central tendency, percentile and quartile, correlation, etc.
       
 * ### Inferential Statistics
-      Inferential statistics is part of statistics that finds reliable inferences of population data from sample data. It covers Confidence Interval, Hypothesis Testing, Level of Significance, Central Limit Theorem, Point Estimator and Estimate, Standard Error, Analysis of Variance (ANOVA), Chi-Square Test, etc.
+Inferential statistics is part of statistics that finds reliable inferences of population data from sample data. It covers Confidence Interval, Hypothesis Testing, Level of Significance, Central Limit Theorem, Point Estimator and Estimate, Standard Error, Analysis of Variance (ANOVA), Chi-Square Test, etc.
       
 
 ## Probability
