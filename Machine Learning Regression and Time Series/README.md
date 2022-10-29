@@ -18,3 +18,11 @@ In doing machine learning we need the stages as below:
 * Evaluate Modeling
 
 # Modeling Workflow
+
+
+
+
+# Time Series
+Time series forecasting is basically the machine learning modeling for Time Series data (years, days, hours, etc.)for predicting future values using Time Series modeling .This helps if your data in serially correlated.
+
+Time series forecasting is the task of predicting future values based on historical data.
