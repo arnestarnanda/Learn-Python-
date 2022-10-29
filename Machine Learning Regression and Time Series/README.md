@@ -18,8 +18,33 @@ In doing machine learning we need the stages as below:
 * Evaluate Modeling
 
 # Modeling Workflow
+Cross validation and hyperparameter tuning is a method that used to evaluate ML model and optimize it.
+## Cross Validation
+Cross-validation is a technique for evaluating ML models by training several ML models on subsets of the available input data and evaluating them on the complementary subset of the data.
+## Hyperparameter Tuning
+Hyperparameter tuning consists of finding a set of optimal hyperparameter values for a learning algorithm while applying this optimized algorithm to any data set. That combination of hyperparameters maximizes the model's performance, minimizing a predefined loss function to produce better results with fewer errors
 
+# Machine Learning Regression
+Regression is a technique for  investigating the relationship between independent variables or features and a dependent variable or outcome. It’s used as a method for predictive modelling in machine learning, in which an algorithm is used to predict continuous outcomes.  
 
+## Linear regression
+Linear regression is a type of supervised learning algorithm, commonly used for predictive analysis.
+
+linear regression is a predictive modeling technique. It is used whenever there is a linear relation between the dependent and the independent variables.
+
+### Simple linear regression
+Simple Linear regression is a linear regression technique which plots a straight line within data points to minimise error between the line and the data points. 
+
+It is one of the most simple and basic types of machine learning regression. 
+
+This approach is simple because it is used to explore the relationship between the dependent variable and one independent variable.
+
+### Multiple linear regression
+Multiple linear regression is a technique used when more than one independent variable is used. 
+
+Polynomial regression is an example of a multiple linear regression technique.
+
+It achieves a better fit in the comparison to simple linear regression when multiple independent variables are involved.
 
 
 # Time Series
